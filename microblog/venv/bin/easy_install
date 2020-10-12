@@ -1,4 +1,4 @@
-#!/home/jordy/microblog/venv/bin/python3
+#!/home/jordy/PythonStudies/microblog/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
